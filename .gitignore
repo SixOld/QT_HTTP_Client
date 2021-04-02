@@ -1,0 +1,7 @@
+.vs/
+*.vcxproj*
+*.sln
+*.qmake*
+debug/
+release/
+*.json
